@@ -8,7 +8,7 @@
           <false/>
       </dict>
     <key>Label</key>
-      <string>com.osirix-viewer.osirix.keepalive</string>
+      <string>com.osirix-viewer.keepalive</string>
     <key>ProgramArguments</key>
       <array>
         <string>/Applications/OsiriX.app/Contents/MacOS/OsiriX</string>
