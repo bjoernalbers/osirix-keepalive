@@ -10,7 +10,7 @@ directory and load it:
 
 ```
 cd ~/Library/LaunchAgents/
-curl -L -o com.osirix-viewer.keepalive.plist https://raw.github.com/bjoernalbers/osirix-keepalive/com.osirix-viewer.keepalive.plist
+curl -L -o com.osirix-viewer.keepalive.plist https://raw.github.com/bjoernalbers/osirix-keepalive/master/com.osirix-viewer.keepalive.plist
 launchctl load -w com.osirix-viewer.keepalive.plist
 ```
 
